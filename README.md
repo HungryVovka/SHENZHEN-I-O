@@ -13,5 +13,6 @@ My assignment solutions of SHENZHEN-I-O tasks.
 * Get creative! Design and test your own games and devices in the sandbox.
 * Engineering is hard! Take a break and play a brand-new twist on solitaire.
 
-Steam: https://store.steampowered.com/app/504210/SHENZHEN_IO/
-XBOX: https://www.xbox.com/ru-ru/games/store/shenzhen-i-o/9p1jhj127hr4
+### You can buy it on:
+* Steam: https://store.steampowered.com/app/504210/SHENZHEN_IO/
+* XBOX: https://www.xbox.com/ru-ru/games/store/shenzhen-i-o/9p1jhj127hr4
