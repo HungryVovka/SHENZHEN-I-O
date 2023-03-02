@@ -12,3 +12,6 @@ My assignment solutions of SHENZHEN-I-O tasks.
 * Get to know the colorful cast of characters at your new employer, 深圳龙腾科技有限公司 (Shenzhen Longteng Electronics Co., Ltd.), located in the electronics capital of the world.
 * Get creative! Design and test your own games and devices in the sandbox.
 * Engineering is hard! Take a break and play a brand-new twist on solitaire.
+
+Steam: https://store.steampowered.com/app/504210/SHENZHEN_IO/
+XBOX: https://www.xbox.com/ru-ru/games/store/shenzhen-i-o/9p1jhj127hr4
