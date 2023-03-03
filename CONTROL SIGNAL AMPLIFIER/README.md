@@ -1,3 +1,7 @@
+* **control-in** is a simple input connected to factory equipment.
+* **control-out** is a simple output connected to other factory equipment.
+* The signal from **control-in** should ne multiplied by 2 and copied to **control-out**.
+
 ```
 MC4000 (control-in -> p0):
     mov 0 p0 acc
