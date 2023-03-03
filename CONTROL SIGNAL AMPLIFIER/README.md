@@ -6,8 +6,8 @@ MC4000 (control-in -> p0):
     slp 1
 ```
 <details>
-<summary>FAKE SURVEILLANCE CAMERA</summary>
+<summary>CONTROL SIGNAL AMPLIFIER</summary>
 <p>
-  <img alt="Fake surveillance camera" src="https://github.com/HungryVovka/SHENZHEN-I-O/blob/main/CONTROL%20SIGNAL%20AMPLIFIER/CONTROL%20SIGNAL%20AMPLIFIER.jpg">
+  <img alt="control signal amplifier" src="https://github.com/HungryVovka/SHENZHEN-I-O/blob/main/CONTROL%20SIGNAL%20AMPLIFIER/CONTROL%20SIGNAL%20AMPLIFIER.jpg">
 </p>
 </details>
