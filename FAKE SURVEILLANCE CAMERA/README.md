@@ -1,3 +1,6 @@
+* active and network are simple outputs connected to LEDs.
+* Control the active and network outputs with fixed, repeating signals as indicated in the verification tab.
+
 ```
 MC4000 (active -> p0):
     mov 0 p0
